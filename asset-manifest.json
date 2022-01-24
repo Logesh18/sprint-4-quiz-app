@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sprint-4-quiz-app/static/css/main.793bb966.css",
+    "main.js": "/sprint-4-quiz-app/static/js/main.2c7e6b7f.js",
+    "static/js/787.9e90ff23.chunk.js": "/sprint-4-quiz-app/static/js/787.9e90ff23.chunk.js",
+    "index.html": "/sprint-4-quiz-app/index.html",
+    "main.793bb966.css.map": "/sprint-4-quiz-app/static/css/main.793bb966.css.map",
+    "main.2c7e6b7f.js.map": "/sprint-4-quiz-app/static/js/main.2c7e6b7f.js.map",
+    "787.9e90ff23.chunk.js.map": "/sprint-4-quiz-app/static/js/787.9e90ff23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.793bb966.css",
+    "static/js/main.2c7e6b7f.js"
+  ]
+}
