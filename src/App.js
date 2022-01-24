@@ -1,23 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
-
+import * as frontpage from "src/components/UI/Banner/banner"
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <frontpage.Banner/>
     </div>
   );
 }
